@@ -11,7 +11,10 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
 
 ## General Information
-  Write the general information about the case study. 
+    General information about the case study.
+  - **Background** : [**Lending Club**](https://www.lendingclub.com/) is a lending platform that lends money to people in need at an interest rate based on their credit history and other factors.
+- **Input** :Loan data set which has got the loan amount given to customers in the term duration 36 to 60 months with different interest rate. 
+- **Case study Problem** : Need to analyse the data set related to customers and the analysis to help the finance company in decision making to provide loan to the customers with the minimal risk.
 
 
 ## Tools and Technologies
